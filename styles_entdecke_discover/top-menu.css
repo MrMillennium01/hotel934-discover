@@ -1,0 +1,55 @@
+.top-menu {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.current-top-menu-button {
+    height: 40px;
+    background-color: white;
+    border: none;
+    color: #045184;
+    font-family: "Avenir", sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
+
+.top-menu-button {
+    height: 40px;
+    background-color: white;
+    border: none;
+    color: black;
+    font-family: "Avenir", sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
+
+.top-menu-button:hover {
+    background-color: white;
+    border: none;
+    color: #4f97c6;
+}
+
+.inquiery-button {
+    height: 40px;
+    background-color: #045184;
+    border: none;
+    color: white;
+    font-family: "Avenir", sans-serif;
+    font-weight: bold;
+    font-size: large;
+}
+
+.inquiery-button:hover {
+    color: black;
+    background-color: white;
+    border-color: black;
+    border-width: 1px, 1px, 1px, 1px;
+}
+
+.dividing-line {
+    background-color: black;
+    width: auto;
+    height: 2px;
+    margin-bottom: 20px;
+}
